@@ -1,9 +1,10 @@
 package main
 
+
 func main() {
 
-	problem1()
+	//problem1()
 
-	problem2()
+	//problem2()
 
 }
